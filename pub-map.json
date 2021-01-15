@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json"
+                 "value":"fantasy-map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
