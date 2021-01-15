@@ -15,6 +15,7 @@ In order to build your own map for WorkAdventure, you need:
 On the [Github repository page](https://github.com/thecodingmachine/workadventure-map-starter-kit),
 click the **"Use this template"** button. You will be prompted to enter a repository name for your map.
 
+
 ![](docs/create_repo.png)
 
 Be sure to keep the repository "Public".
