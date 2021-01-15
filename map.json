@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"my-map\/fantasy-map-v1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
