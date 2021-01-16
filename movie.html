@@ -31,9 +31,13 @@
 
     player.src = "https://inter-faze.github.io/my-map/movie/"+urlParams["media"];
     
+    player.focus();
+
     player.onloadeddata = function() {
         player.play();
     };
+
+
 
     document.getElementById("mediasource").play();
 
