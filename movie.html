@@ -28,14 +28,15 @@
         urlParams[decode(match[1])] = decode(match[2]);
     })();
 
-    //document.getElementById("mediasource").src = urlParams["media"];
 
     player.src = "https://inter-faze.github.io/my-map/movie/"+urlParams["media"];
     
     player.onloadeddata = function() {
         player.play();
     };
-    
+
+    document.getElementById("mediasource").play();
+
     //src="mp4/toilet.mp4" 
     
     player.load();
