@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/movie.html?media=toilet1.mp4"
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/movie.html?media=toilet1.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
