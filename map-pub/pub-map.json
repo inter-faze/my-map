@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"fantasy-map.json"
+                 "value":"..\/fantasy-map\/fantasy-map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
