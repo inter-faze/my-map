@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/movie.html?media=fridge.mp4"
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/movie.html?media=fridge.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/movie.html?media=mariagelogic.mp4"
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/movie.html?media=mariagelogic.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
