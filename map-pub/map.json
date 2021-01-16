@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map-fantasy\/map.json#exit_corridor"
+                 "value":"..\/map-fantasy\/map.json#exit-corridorr"
                 }],
          "type":"tilelayer",
          "visible":true,
