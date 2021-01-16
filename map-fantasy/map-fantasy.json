@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/pub-map\/pub-map.json"
+                 "value":"..\/map-pub\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
