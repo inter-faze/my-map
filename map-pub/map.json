@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/birthday.rf.gd\/movie\/movie.html?media=toilet1.mp4"
+                 "value":"..\/movie.html?media=toilet1.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/birthday.rf.gd\/movie\/movie.html?media=mariagelogic.mp4"
+                 "value":"..\/movie.html?media=mariagelogic.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
