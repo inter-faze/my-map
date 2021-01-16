@@ -123,6 +123,12 @@
          "id":20,
          "name":"mp4_beer4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/movie.html?media=beer4.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
