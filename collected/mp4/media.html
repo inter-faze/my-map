@@ -1,0 +1,45 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+
+</head>
+<body>
+<div>
+<video id="theplayer"  controls="controls"> 
+	<source id="mediasource" type="video/mp4">
+        <p>This is fallback content</p>
+    Your browser does not support the VIDEO tag and/or RTP streams.
+</video>
+<p>Works best with Chromium/Chrome. You can expect a video here</p>
+</div>
+<script>
+    var urlParams;
+    (window.onpopstate = function () {
+        var match,
+            pl     = /\+/g,  // Regex for replacing addition symbol with a space
+            search = /([^&=]+)=?([^&]*)/g,
+            decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+            query  = window.location.search.substring(1);
+
+        urlParams = {};
+        while (match = search.exec(query))
+        urlParams[decode(match[1])] = decode(match[2]);
+    })();
+ 
+ 
+</script>
+<script>
+
+   //var source = document.getElementById("mediasource")
+    //source.src = urlParams["media"];
+
+    var player = document.getElementById("theplayer");
+    player.pause();
+    player.src = urlParams["media"];
+    player.load();
+    //player.autoplay = "autoplay";
+    //player.getElementById("theplayer").load(); // src="mp4/toilet.mp4"
+    //player.getElementById("theplayer").pause(); //autoplay="autoplay"
+    player.play(); //autoplay="autoplay"
+</script>
+
+</body></html>
