@@ -29660,18 +29660,17 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
-         "columns":0,
+         "columns":1,
          "firstgid":4300,
          "image":"exit_tile.png",
          "imageheight":32,
          "imagewidth":32,
-         "margin":1,
+         "margin":0,
          "name":"exit",
-         "spacing":2,
-         "tilecount":0,
+         "spacing":0,
+         "tilecount":1,
          "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
