@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map-fantasy\/map.json"
+                 "value":"..\/map-fantasy\/map.json#start-from-pub"
                 }],
          "type":"tilelayer",
          "visible":true,
