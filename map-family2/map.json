@@ -245,8 +245,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":30,
          "firstgid":1065,
-         "source":"bskonf.tsx"
+         "image":"bskonf.png",
+         "imageheight":508,
+         "imagewidth":962,
+         "margin":0,
+         "name":"bskonf",
+         "spacing":0,
+         "tilecount":450,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
