@@ -3,7 +3,8 @@ name: Optimize map and deploy
 on:
   push:
     branches:
-      - master
+      - hberg
+      #- master
 
 jobs:
 
