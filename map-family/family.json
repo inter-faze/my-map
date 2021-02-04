@@ -247,7 +247,7 @@
         {
          "columns":30,
          "firstgid":1065,
-         "image":"tiles\/bskonf.png",
+         "image":"bskonf.png",
          "imageheight":508,
          "imagewidth":962,
          "margin":0,
@@ -260,7 +260,7 @@
         {
          "columns":16,
          "firstgid":1515,
-         "image":"tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -273,7 +273,7 @@
         {
          "columns":16,
          "firstgid":1771,
-         "image":"tiles\/tilesets_deviant_milkian_2.png",
+         "image":"tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -286,7 +286,7 @@
         {
          "columns":16,
          "firstgid":2027,
-         "image":"tiles\/tilesets_deviant_milkian_3.png",
+         "image":"tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
