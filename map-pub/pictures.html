@@ -1,0 +1,33 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+
+</head>
+<body>
+<div>
+    <img id="thepicture" alt="Flowers in Chania">
+    <p>Works best with Chromium/Chrome. You can expect an image here</p>
+</div>
+<script>
+
+    var image = document.getElementById("thepicture");
+
+    var urlParams;
+    (window.onpopstate = function () {
+        var match,
+            pl     = /\+/g,  // Regex for replacing addition symbol with a space
+            search = /([^&=]+)=?([^&]*)/g,
+            decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+            query  = window.location.search.substring(1);
+
+        urlParams = {};
+        while (match = search.exec(query))
+        urlParams[decode(match[1])] = decode(match[2]);
+    })();
+
+    //document.getElementById("mediasource").src = urlParams["media"];
+
+    image.src = "http://birthday.rf.gd/media/17-09-01%2010-53-56%203908.jpg" //+ urlParams["media"];
+    
+    
+</script>
+</body></html>
