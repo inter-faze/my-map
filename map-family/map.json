@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/birthday.rf.gd\/media\/bild1.jpg"
+                 "value":"pictures.html?media=bild2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -255,6 +255,12 @@
          "id":17,
          "name":"Bilder4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/explain.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -267,6 +273,12 @@
          "id":18,
          "name":"Bilder5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/birthday.rf.gd\/explain.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
