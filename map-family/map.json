@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/inter-faze.github.io\/my-map\/map-family\/pictures.html?media=17-09-01 10-53-56 3908.jpg"
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/map-family\/pictures.html?media=bild1.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -219,6 +219,12 @@
          "id":15,
          "name":"Bilder2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/inter-faze.github.io\/my-map\/map-family\/pictures.html?media=bild2.jpg"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
