@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/inter-faze.github.io\/my-map\/map-family\/pictures.html?media=bild1.jpg"
+                 "value":"https:\/\/birthday.rf.gd\/media\/bild1.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/inter-faze.github.io\/my-map\/map-family\/pictures.html?media=bild2.jpg"
+                 "value":"https:\/\/birthday.rf.gd\/pictures.html?media=bild2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
