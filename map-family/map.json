@@ -201,6 +201,12 @@
          "id":14,
          "name":"Bilder1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"pictures.html?media=17-09-01 10-53-56 3908.jpg"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,

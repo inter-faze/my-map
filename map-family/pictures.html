@@ -7,7 +7,7 @@
 
 <body>
     <div>
-        <img id="thepicture" alt="Flowers in Chania">
+        <img id="thepicture">
         <p>Works best with Chromium/Chrome. You can expect an image here</p>
     </div>
     <script>
@@ -28,9 +28,12 @@
                 urlParams[decode(match[1])] = decode(match[2]);
         })();
 
-        //document.getElementById("mediasource").src = urlParams["media"];
 
-        image.src = "http://birthday.rf.gd/media/17-09-01%2010-53-56%203908.jpg" //+ urlParams["media"];
+        //var imagesrc = "http://birthday.rf.gd/media/17-09-01%2010-53-56%203908.jpg" //+ urlParams["media"];
+        // "http://birthday.rf.gd/media"
+        var url = window.atob("aHR0cDovL2JpcnRoZGF5LnJmLmdkL21lZGlh");
+        var imagesrc = url + "/" + urlParams["media"];
+        document.getElementById("thepicture").src = imagesrc;
     </script>
 </body>
 
