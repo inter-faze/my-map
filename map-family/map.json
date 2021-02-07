@@ -237,6 +237,12 @@
          "id":16,
          "name":"Bilder3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/birthday.rf.gd\/explain.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
