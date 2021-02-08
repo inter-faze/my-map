@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/birthday.rf.gd\/pictures.html?media=bild2.jpg"
+                 "value":"https:\/\/test2.wittpahl.com\/pictures.html?media=bild2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/birthday.rf.gd\/explain.html"
+                 "value":"https:\/\/test2.wittpahl.com\/pictures.html?media=bild3.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/inter-faze.github.io\/my-map\/explain.html"
+                 "value":"https:\/\/test2.wittpahl.com\/pictures.html?media=bild4.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/birthday.rf.gd\/explain.html"
+                 "value":"https:\/\/test2.wittpahl.com\/pictures.html?media=bild5.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
