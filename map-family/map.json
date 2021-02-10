@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/test2.wittpahl.com\/gallery2"
+                 "value":"https:\/\/test2.wittpahl.com\/gallery2\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
