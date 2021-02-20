@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/gallery3"
+                 "value":"https:\/\/www.wittpahl.net\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
