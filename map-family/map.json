@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/gallery1"
+                 "value":"https:\/\/www.wittpahl.net\/gallery1\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
