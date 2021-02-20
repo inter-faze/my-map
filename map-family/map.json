@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/pictures.html?media=bild1.jpg"
+                 "value":"https:\/\/www.wittpahl.net\/gallery2\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/index.html"
+                 "value":"https:\/\/www.wittpahl.net\/gallery3\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/gallery4"
+                 "value":"https:\/\/www.wittpahl.net\/gallery4\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/gallery5"
+                 "value":"https:\/\/www.wittpahl.net\/gallery5\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
