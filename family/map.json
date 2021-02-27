@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map-family\/map-china.json"
+                 "value":"..\/map-family\/map-patrick.json"
                 }],
          "type":"tilelayer",
          "visible":true,
