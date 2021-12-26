@@ -10,6 +10,6 @@ Bitte verwendet Euren richtigen Namen, damit erkennbar ist, wer Ihr seid. Den Na
 
 In der Welt bewegt Ihr Euch mit den Pfeiltasten. Wenn Ihr jemandem begegnet, könnt Ihr mit der Person sprechen und die Person sehen. Um Euch bildet sich dann ein weißer Kreis. Das funktioniert maximal mit vier Personen zeitgleich.Es gibt aber auch Meetingräume, in denen mehr Personen sprechen können. Sie finden sich auf den Sofas und am Küchentisch. Der Meetingraum wird von rechts eingeblendet (das kann einen Moment dauern).
 
-Des Weiteren sind ein paar Fotos auf der Karte „versteckt“. Auch sie werden von rechts eingeblendet.
+Des Weiteren sind ein paar Fotos auf der Karte „versteckt“. Ihr findet sie an den Infopunkten. Auch sie werden von rechts eingeblendet.
 
 Viel Spaß und bis gleich! 
