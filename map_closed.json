@@ -20,12 +20,6 @@
          "id":13,
          "name":"exit_museum",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.world.dezentrale.cloud\/_\/global\/world.naturkunde.museum\/Naturkundemuseum_Vorgarten.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
