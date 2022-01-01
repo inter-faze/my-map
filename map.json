@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-01"
+                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-01\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-02"
+                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-02\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-03"
+                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-03\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-04"
+                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-04\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -144,7 +144,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-05"
+                 "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-05\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
