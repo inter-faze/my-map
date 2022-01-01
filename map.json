@@ -70,7 +70,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"url",
                  "type":"string",
                  "value":"https:\/\/www.wittpahl.net\/hberg\/20220101-01"
                 }],
